@@ -3,5 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello!";
+    float Pi = 3.14;
+    cout << "Hello!" << Pi;
 }
